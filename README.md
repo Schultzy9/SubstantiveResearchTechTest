@@ -12,7 +12,7 @@ This project has been completed as a Vue application. To run this application lo
 
 2. Enter the directory
 
-`cd tech-test`
+`cd SubstantiveResearchTechTest`
 
 3. Install dependencies
 
