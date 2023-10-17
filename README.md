@@ -8,7 +8,7 @@ This project has been completed as a Vue application. To run this application lo
 
 1. Clone the repository
 
-`git clone ...`
+`git clone https://github.com/Schultzy9/SubstantiveResearchTechTest`
 
 2. Enter the directory
 
